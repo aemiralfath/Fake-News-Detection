@@ -18,9 +18,9 @@ You don't need to install anything since its written in Google Colab which is a 
 * [Pandas](https://pandas.pydata.org/) - Data Anaylysis Library
 
 ## Authors
-* **Kelvin Liusiani **  - [kelvinliu4444](https://github.com/kelvinliu4444)
-* **Ahmad Emir Alfatah **  - [aemiralfath](https://github.com/aemiralfath)
-* **Bob Yuwono **  - [bobyuwono](https://github.com/bobyuwono)
+* **Kelvin Liusiani**  - [kelvinliu4444](https://github.com/kelvinliu4444)
+* **Ahmad Emir Alfatah**  - [aemiralfath](https://github.com/aemiralfath)
+* **Bob Yuwono**  - [bobyuwono](https://github.com/bobyuwono)
 
 ## Acknowledgements
 
