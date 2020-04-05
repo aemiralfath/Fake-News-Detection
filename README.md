@@ -22,5 +22,6 @@ You don't need to install anything since its written in Google Colab which is a 
 * **Ahmad Emir Alfatah**  - [aemiralfath](https://github.com/aemiralfath)
 * **Bob Yuwono**  - [bobyuwono](https://github.com/bobyuwono)
 
-## Acknowledgements
+## Versioning
+the initial Code is named [fake news kevin.ipynb](https://github.com/Bangkit-2-Jakarta-Team/Fake-News-Detection/blob/master/fake%20news%20kelvin.ipynb)  and the final Code is named [fake_news.ipnyb](https://github.com/Bangkit-2-Jakarta-Team/Fake-News-Detection/blob/master/fake_news.ipynb)
 
